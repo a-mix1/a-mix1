@@ -1,5 +1,8 @@
-<background-color="black">
 
+ body {
+    background-color: black;
+    color: white; /* Change the text color to white for visibility */
+  }
 
 <h1 align="left">Hi 👋! My name is Ankit and I'm a developer from Kolkata</h1>
 
