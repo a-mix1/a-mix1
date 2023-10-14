@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ankit and I'm a developer from Kolkata</h2>
+<h1 align="left">Hi 👋! My name is Ankit and I'm a developer from Kolkata</h1>
 <background-color="black">
 ###
 
