@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-mix1" alt="a-mix1" /></a> </p>
 
-<div>
+
 - 🔭 I’m currently working on **React Projects**
 
 - 🌱 I’m currently learning **React JS, DSA**
@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I edit videos and kick a ball sometimes**
 
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
