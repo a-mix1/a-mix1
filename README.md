@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://a-mix1.github.io/Portfolio/)
 
-- 💬 Ask me about **Java, Python and Frontend Development**
+- 💬 Ask me about **Java, Python and Frontend Development and other things too**
 
 - 📫 How to reach me **ankitmukherjeebiz@gmail.com**
 
