@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ankitmukherjeebiz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19dIytIEqm10z-49K9wnBfONWYYRg350H/view](https://drive.google.com/file/d/19dIytIEqm10z-49K9wnBfONWYYRg350H/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19dIytIEqm10z-49K9wnBfONWYYRg350H/view)
 
 - ⚡ Fun fact **I edit videos and kick a ball sometimes**
 
