@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React JS, DSA**
 
-- 👨‍💻 All of my projects are available at [https://a-mix1.github.io/Portfolio/](https://a-mix1.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://a-mix1.github.io/Portfolio/)
 
 - 💬 Ask me about **Java, Python and Frontend Development**
 
