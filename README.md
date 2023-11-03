@@ -6,6 +6,7 @@
 <h3 align="left">About me:</h3>
 
 <img src="https://in.pinterest.com/pin/1026539308787846641/"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
 
 - 🔭 I’m currently working on **React Projects**
