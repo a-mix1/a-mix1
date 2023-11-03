@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-<img src="https://in.pinterest.com/pin/1026539308787846641/">
+<img src="https://in.pinterest.com/pin/1026539308787846641/"/>
 
 
 - 🔭 I’m currently working on **React Projects**
