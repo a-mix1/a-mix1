@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-![spider](https://in.pinterest.com/pin/1026539308787846641)
+
 
 
 
