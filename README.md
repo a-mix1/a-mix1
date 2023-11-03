@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-<img src="[https://in.pinterest.com/pin/1026539308787846641](https://tohuwabohus.tumblr.com/post/181234824389/what-a-stunning-piece-of-art-this-movie-is-and)/" alt="spider" width="40" height="40"/>
+![spider](https://in.pinterest.com/pin/1026539308787846641)
 
 
 
