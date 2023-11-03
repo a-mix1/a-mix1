@@ -1,5 +1,7 @@
+
+
 <h1 align="center">Sup 👋, I'm Ankit</h1>
-<h3 align="center">🚀Aspiring Software Engineer | Blending functionality with aesthetics 🧩 |🔍Looking for a new opportunity </h3>
+<h3 align="center">🚀Aspiring Software Engineer</h3>
 
 <h3 align="left">About me:</h3>
 
