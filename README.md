@@ -5,8 +5,9 @@
 
 <h3 align="left">About me:</h3>
 
-
-
+<div class="image-container">
+  <img src="https://in.pinterest.com/pin/105201341288934429/" alt="Your Image" width="200" />
+</div>
 
 
 - 🔭 I’m currently working on **React Projects**
