@@ -3,13 +3,13 @@
 <h1 align="center">Sup 👋, I'm Ankit</h1>
 
 
-<h3 align="center">🚀Aspiring Software Engineer | Blending functionality with aesthetics 🧩 |🔍Looking for a new oppurtunity </h3>
+<h4 align="center">🚀Aspiring Software Engineer | Blending functionality with aesthetics 🧩 |🔍Looking for a new oppurtunity </h3>
 
 <h3 align="left">About me:</h3>
 
 <div class="about-me">
 <div class="image-container">
-    <img src="https://i.pinimg.com/originals/68/06/6f/68066f6ecbd25acb1cf916ad29b220b2.jpg" align="right" alt="Your Image" width="200" />
+    <img src="https://i.pinimg.com/originals/68/06/6f/68066f6ecbd25acb1cf916ad29b220b2.jpg"  align="right" alt="Your Image" width="200" />
   </div>
 
 - 🔭 I’m currently working on **React Projects**
@@ -83,6 +83,6 @@
 <h3 align="left">✍Intellectual Stuff Lol</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=a-mix1&icon=0&color=2)](https://visitcount.itsvg.in)
+
 
 
