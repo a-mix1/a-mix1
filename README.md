@@ -1,4 +1,4 @@
-<body style="background-color:black; color:white;">
+
 
 <h1 align="center">Sup 👋, I'm Ankit</h1>
 
@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **React JS, DSA**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://a-mix1.github.io/ankit/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://a-mix1.github.io/Ankit/)
 
 - 💬 Ask me about **Java, Python and Frontend Development and other things too**
 
