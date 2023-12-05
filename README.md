@@ -1,4 +1,3 @@
-
 [![My GitHub Banner](https://cdna.artstation.com/p/assets/images/images/026/128/252/original/lennart-butz-idea5anim.gif?1587962316)](https://github.com/a-mix1)
 
 <h1 align="center">Sup 👋, I'm Ankit</h1>
@@ -6,12 +5,13 @@
 
 <h4 align="center">🚀Aspiring Software Engineer | Blending functionality with aesthetics 🧩 |🔍Looking for a new oppurtunity </h3>
 
-<h3 align="left">About me:</h3>
+<h2 align="center">About me:</h2>
 
 <div class="about-me">
 <div class="image-container">
-    <img src="https://i.pinimg.com/originals/68/06/6f/68066f6ecbd25acb1cf916ad29b220b2.jpg"  align="right" alt="Your Image" width="150" />
+    <img src="https://i.pinimg.com/originals/68/06/6f/68066f6ecbd25acb1cf916ad29b220b2.jpg"  align="right"  alt="Your Image" width="300" />
   </div>
+    
 
 - 🔭 I’m currently working on **React Projects**
 
@@ -73,6 +73,7 @@
 </div>
 <div>
 <h3 align="left">📊 GitHub Stats:</h3>
+    <p>Note: The percentage of language usage is a statistic and does not necessarily reflect my proficiency level</p>
 <div class="github-stats">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=a-mix1&label=Profile%20views&color=0e75b6&style=flat" alt="a-mix1" /> </p>
   <img src="https://github-readme-stats.vercel.app/api?username=a-mix1&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
@@ -81,8 +82,11 @@
 </div>
 </div>
 
-<h3 align="left">✍Intellectual Stuff Lol</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d1/98/fe/d198fe50dc8fb1e540026cd4d332a215.jpg" alt="Footer Image">
+</p>
+
+
 
 
 
