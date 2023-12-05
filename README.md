@@ -1,4 +1,5 @@
 
+[![My GitHub Banner](https://cdna.artstation.com/p/assets/images/images/026/128/252/original/lennart-butz-idea5anim.gif?1587962316)](https://github.com/a-mix1)
 
 <h1 align="center">Sup 👋, I'm Ankit</h1>
 
@@ -9,7 +10,7 @@
 
 <div class="about-me">
 <div class="image-container">
-    <img src="https://i.pinimg.com/originals/68/06/6f/68066f6ecbd25acb1cf916ad29b220b2.jpg"  align="right" alt="Your Image" width="200" />
+    <img src="https://i.pinimg.com/originals/68/06/6f/68066f6ecbd25acb1cf916ad29b220b2.jpg"  align="right" alt="Your Image" width="150" />
   </div>
 
 - 🔭 I’m currently working on **React Projects**
